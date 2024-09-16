@@ -15,7 +15,4 @@ public class Lab012 {
     //Binary literal
     int x= 10101;
 
-    //Char
-    //Single char
-    //
 }
