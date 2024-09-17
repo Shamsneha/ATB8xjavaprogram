@@ -2,7 +2,7 @@ package sept.ex_13092024;
 
 public class Task01 {
     public static void main(String[] args) {
-        // Problem statement - print the table of 2
+        // Problem statement -
               // Formatting
                 // %d - any integer,byte, short, long
                 // %s - String
