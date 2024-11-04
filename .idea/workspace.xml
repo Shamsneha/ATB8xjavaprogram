@@ -4,25 +4,126 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c92fbd30-67e5-406d-a38b-2e5e388d0df6" name="Changes" comment="ATB">
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Lab59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/sept/ex_20092024.java" afterDir="false" />
+    <list default="true" id="c92fbd30-67e5-406d-a38b-2e5e388d0df6" name="Changes" comment="ATB20sept">
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Array_25102024/Array_iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/ArrayList4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/ArrayListCollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/Arraylist_Itrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/List_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/List_Arraylist2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/List_Arraylist3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/List_Arraylist_forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/CollectionFramework1_28102024/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Inheritance_09102024/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Inheritance_09102024/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/StaticKeyword_16102024/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task_oct/Task25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task20_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task20_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task20_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task20_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task23_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task23_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task23_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task25_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task25_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task25_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task25_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task27_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task27_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task27_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task30_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task30_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task30_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task30_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_23092024/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_25092024/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_27092024/Lab108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_30092024/Lab109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_30092024/Lab110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_30092024/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_30092024/Lab112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_30092024/Lab113.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex23092024/Lab063.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_13092024/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task13_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_13092024/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task13_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_13092024/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task13_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_16092024/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task16_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_16092024/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task16_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_18092024/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task18_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_18092024/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task18_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_18092024/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task18_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_18092024/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task18_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab054.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab055.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab055.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab056.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab056.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab057.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab058.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab060.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab060.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab061.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab061.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab062.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab062.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Lab59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_20092024/Lab59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/Task_sept/Task20_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Task02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/Task03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/sept/ex_20092024.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +166,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
@@ -102,11 +204,23 @@
     &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab070.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task03.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task04.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2501.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2502.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2503.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task25_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task27_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task27_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task27_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task30_02.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -114,13 +228,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/tabre/IdeaProjects/ATB8xjavaprogram/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task01">
-    <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.sept.Lab055" />
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Array_25102024.Array" />
       <module name="ATB8xjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.sept.*" />
+          <option name="PATTERN" value="Oct.Array_25102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.sept.Lab056" />
+    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.StaticKeyword_16102024.Static" />
       <module name="ATB8xjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.sept.*" />
+          <option name="PATTERN" value="Oct.StaticKeyword_16102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.sept.Lab057" />
+    <configuration name="Task25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Task_oct.Task25" />
       <module name="ATB8xjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.sept.*" />
+          <option name="PATTERN" value="Oct.Task_oct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.sept.Lab062" />
+    <configuration name="Task27_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.Task_sept.Task27_01" />
       <module name="ATB8xjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.sept.*" />
+          <option name="PATTERN" value="sept.Task_sept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.sept.Task01" />
+    <configuration name="Task30_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.Task_sept.Task30_02" />
       <module name="ATB8xjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.sept.*" />
+          <option name="PATTERN" value="sept.Task_sept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.Lab055" />
-        <item itemvalue="Application.Lab062" />
-        <item itemvalue="Application.Lab057" />
-        <item itemvalue="Application.Lab056" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Task25" />
+        <item itemvalue="Application.Static" />
+        <item itemvalue="Application.Task30_02" />
+        <item itemvalue="Application.Task27_01" />
       </list>
     </recent_temporary>
   </component>
@@ -239,12 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726795348519</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ATB20sept">
+      <option name="closed" value="true" />
+      <created>1727195187732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727195187732</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ATB" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATB" />
+    <MESSAGE value="ATB20sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATB20sept" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
