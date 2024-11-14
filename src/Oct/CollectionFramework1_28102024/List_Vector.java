@@ -2,8 +2,7 @@ package Oct.CollectionFramework1_28102024;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
-
-public class Vector {
+public class List_Vector {
     public static void main(String[] args) {
         List mylist1 = new ArrayList(5); // FR - CO
         mylist1.add("Pramod");
@@ -34,6 +33,8 @@ public class Vector {
         // It will be time consumming
         // One by One - usage
         // Slower
+
+
 
 
 
